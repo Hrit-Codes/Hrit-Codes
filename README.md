@@ -29,9 +29,9 @@ Welcome to my GitHub! I'm a CSIT student and Full Stack Developer who enjoys tur
 ### 🚀 Featured Projects
  
 - **[Tech Vault](https://tech-vault-cyan.vercel.app/)** — Full-stack tech e-commerce platform *(in development, 7th-sem final project)*
-- **Empress Mode** — Smart e-commerce platform with real-time order updates, AI chat support, and multi-gateway payments
-- **Techyversity** — EdTech platform for an Australian IT institute with role-based dashboards
-- **KalaPathar Travel** — SEO-optimized adventure travel platform with GSAP animations and booking management
+- **[Empress Mode](https://em.sangamshrestha007.com.np/)** — Smart e-commerce platform with real-time order updates, AI chat support, and multi-gateway payments
+- **[Techyversity](https://www.techyversity.com/)** — EdTech platform for an Australian IT institute with role-based dashboards
+- **[KalaPathar Travel](https://travel.sangamshrestha007.com.np/)** — SEO-optimized adventure travel platform with GSAP animations and booking management
 ---
  
 ### 🌟 Let's Connect!
@@ -42,8 +42,3 @@ I'm always open to collaborating on interesting projects or discussing new ideas
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://hrit-digital-world.vercel.app/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:privhritamatya@gmail.com)
  
----
- 
-### 📊 GitHub Stats
- 
-![Hrit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hrit-Codes&show_icons=true&theme=dark&hide_border=true)
