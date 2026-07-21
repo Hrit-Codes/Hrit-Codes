@@ -28,7 +28,7 @@ Welcome to my GitHub! I'm a CSIT student and Full Stack Developer who enjoys tur
  
 ### 🚀 Featured Projects
  
-- **[Tech Vault](https://tech-vault-cyan.vercel.app/)** — Full-stack tech e-commerce platform *(in development, 7th-sem final project)*
+- **[Tech Vault]([https://tech-vault-cyan.vercel.app/](https://ecom.hritamatya.name.np/))** — Full-stack tech e-commerce platform *(in development, 7th-sem final project)*
 - **[Empress Mode](https://em.sangamshrestha007.com.np/)** — Smart e-commerce platform with real-time order updates, AI chat support, and multi-gateway payments
 - **[Techyversity](https://www.techyversity.com/)** — EdTech platform for an Australian IT institute with role-based dashboards
 - **[KalaPathar Travel](https://travel.sangamshrestha007.com.np/)** — SEO-optimized adventure travel platform with GSAP animations and booking management
